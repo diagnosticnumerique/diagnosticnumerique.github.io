@@ -1,1 +1,1 @@
-# diagnosticnumeriquearcheagglo.github.io
+# diagnosticnumerique.github.io
