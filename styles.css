@@ -340,6 +340,11 @@ color: rgb(209,171,97);
 text-decoration: underline;
 }
 
+.articlecontent p b{
+font-weight:bold;
+color:rgb(209,171,97);
+}
+
 /* box shadow on pics */
 .articlecontent img {
 border-radius: 3px;
