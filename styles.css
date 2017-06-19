@@ -115,6 +115,38 @@ iframe{
 overflow: scroll;
 }
 
+table{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+
+td,th{
+    border: 1px solid rgb(209,171,97);
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+table h6{
+    color:rgb(38,120,102);
+    padding-bottom: 15px;
+    font-size: 1em;
+    text-align: center;
+}
+
+.foot_article{
+    font-size: 0.8em;
+}
+
+.foot_article .bordure{
+    border-top:1px solid black;
+    padding-top: 2px;
+}
+
+p < .foot_article{
+    margin-top: 100px;
+}
+
 /* nav */
 
 nav .menu {
